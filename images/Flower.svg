@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_2" data-name="Layer 2" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ef3f26;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 13px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m110.49,108.81s-62.04-42.13-32.94-73.53c29.11-31.4,64.34,8.43,23.74,80.43s65.13,76.65,45.96,26.81c-7.66-19.91-36.77-33.7-36.77-33.7Z"/>
+  <path class="cls-1" d="m108.81,102.52s-39.25,63.9-71.95,36.26c-32.7-27.64,5.48-64.66,79.26-27.39,73.78,37.27,73.6-68.56,24.68-47.13-19.54,8.56-31.99,38.27-31.99,38.27Z"/>
+</svg>
